@@ -1,1 +1,1 @@
-# Pass-gen
+# Pass-gen - next gen password generator.
